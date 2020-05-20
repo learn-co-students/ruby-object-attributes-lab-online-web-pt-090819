@@ -8,7 +8,7 @@ class Dog
     @name
   end
     
-#  name.instance_variable_get(:@name)
+
   
   def breed=(breed)
     @breed = breed
@@ -18,7 +18,7 @@ class Dog
     @breed
   end
   
-#  breed.instance_variable_get(:@breed)
+
 
 end
 
